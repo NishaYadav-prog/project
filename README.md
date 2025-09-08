@@ -85,3 +85,7 @@ Offline booking history access
 Nisha Yadav
 B.Tech CSE (2026) | Full-Stack Developer | MERN | Python | ML
 
+[Protfolio 1](https://68bb0bdf17852ba4cc7b2855--nisha-portfolio2.netlify.app/)
+[Protfolio 2](https://nishayadavportfolio.netlify.app/)
+[Linkedin](https://www.linkedin.com/in/nisha-yadav-96681a294/)
+[Github](https://github.com/NishaYadav-prog)
