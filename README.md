@@ -41,11 +41,6 @@ Wanderly/
 
 ⚡ Getting Started
 
-Clone the repository
-
-git clone https://github.com/your-username/wanderly.git
-cd wanderly
-
 
 Install dependencies
 
@@ -89,3 +84,4 @@ B.Tech CSE (2026) | Full-Stack Developer | MERN | Python | ML
 [Protfolio 2](https://nishayadavportfolio.netlify.app/)
 [Linkedin](https://www.linkedin.com/in/nisha-yadav-96681a294/)
 [Github](https://github.com/NishaYadav-prog)
+
