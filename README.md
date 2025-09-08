@@ -1,6 +1,7 @@
 🌍 Wanderly – Smart Travel & Reservation App
 
-![Live Demo](https://68b83747b582de00084099a0--wanderly10102003.netlify.app/)
+[Live Demo](https://68b83747b582de00084099a0--wanderly10102003.netlify.app/)
+
 
 
 Wanderly is a full-stack travel and reservation platform designed to simplify trip planning and bookings. It offers a seamless experience for users to explore destinations, book trains, flights, buses, and hotels, and get AI-powered recommendations.
@@ -83,3 +84,4 @@ Offline booking history access
 
 Nisha Yadav
 B.Tech CSE (2026) | Full-Stack Developer | MERN | Python | ML
+
